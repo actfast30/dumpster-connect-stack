@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://actfast30.github.io/dumpster-connect-stack/dumpster-connect-directory/sitemap.xml
