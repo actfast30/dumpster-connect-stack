@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://actfast30.github.io/dumpster-connect-stack/evidence/index.html</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -18,6 +18,21 @@
   <url>
     <loc>https://actfast30.github.io/dumpster-connect-stack/evidence/how-dumpster-connect-directory-approaches-cost-of-rental.html</loc>
     <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://actfast30.github.io/dumpster-connect-stack/evidence/how-dumpster-connect-directory-approaches-local-services.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://actfast30.github.io/dumpster-connect-stack/evidence/how-dumpster-connect-directory-approaches-rental-pricing-and-payment.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://actfast30.github.io/dumpster-connect-stack/evidence/how-dumpster-connect-directory-approaches-usage-and-restrictions.html</loc>
+    <lastmod>2026-10-28</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
